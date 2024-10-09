@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personel>
+    <id>1</id>
+    <name>Dilara </name>
+    <position> Senior Software Test Engineer</position>
+    <department>IT</department>
+    <salary>100</salary>
+</personel>
